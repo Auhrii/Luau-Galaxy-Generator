@@ -8,5 +8,6 @@ Some of the generated galaxies are shown below; the first two screenshots were t
 
 # Oopsies
 A mistake in translating between global to local coordinates produced these interesting results. Whilst they're not what I was going for, I kept this as a feature toggle (wackyMode) - this is a number, as opposed to a boolean, as it also affects generation scale.
+
 ![GalaxyGen Wacky 1](https://github.com/user-attachments/assets/645e46a5-0369-421a-b4c0-a1dad017b09e)
 ![GalaxyGen Wacky 2](https://github.com/user-attachments/assets/04b37e93-459d-4a81-aabb-8fec4045026f)
